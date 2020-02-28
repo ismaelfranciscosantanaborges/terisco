@@ -1,0 +1,2 @@
+# terisco
+mi primer repositorio
