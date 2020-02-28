@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Convertidor de peso</string>
+    <string-array name="Spinner_items">
+        <item>DOP (Republica Dominicana)</item>
+        <item>USD (Dolar Estadounidense)</item>
+        <item>EUR (Euro)</item>
+        <item>KWD (Dinar kuwaití)</item>
+    </string-array>
+</resources>
